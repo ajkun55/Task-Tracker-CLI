@@ -1,11 +1,11 @@
 # Task-Tracker-CLI
 
-This is a project in Roadmap site, project here https://roadmap.sh/projects/task-tracker
+This is my solution of a project in Roadmap site, project here https://roadmap.sh/projects/task-tracker
 
-Task tracker is a project used to track and manage your tasks. In this task, you will build a a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. This project will help you practice your programming skills, including working with the filesystem, handling user inputs, and building a simple CLI application.
+Task tracker is a project used to track and manage your tasks. In this task, I build a a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. This project will help you practice your programming skills, including working with the filesystem, handling user inputs, and building a simple CLI application.
 
 ## Functionality
-The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
+The application run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user can do:
 
 - Add, Update, and Delete tasks
 - Mark a task as in progress or done
@@ -56,4 +56,4 @@ Each task should have the following properties:
 - createdAt: The date and time when the task was created
 - updatedAt: The date and time when the task was last updated
 
-Make sure to add these properties to the JSON file when adding a new task and update them when updating a task.
+Add these properties to the JSON file when adding a new task and update them when updating a task.
